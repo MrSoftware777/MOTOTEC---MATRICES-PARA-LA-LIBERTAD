@@ -37,7 +37,7 @@ cd ruta/del/proyecto
 streamlit run Proyectofinal.py
 ```
 
-#Vista Esperada:
+# Vista Esperada:
 
 ![image](https://github.com/user-attachments/assets/ed21841e-859b-4408-9673-1b60536f5014)
 
@@ -45,6 +45,15 @@ ________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/25623e48-5baa-422c-90e2-257183ba4b17)
 
+_________________________________________________________________________________________
+
+![image](https://github.com/user-attachments/assets/bddad840-fc9d-4a6d-80a1-fa6bde5d19ac)
+
+_________________________________________________________________________________________
+
+![image](https://github.com/user-attachments/assets/a7410b2a-72f7-41bc-b7e6-97a72aed709a)
+
+_________________________________________________________________________________________
 
 
 # Autores
