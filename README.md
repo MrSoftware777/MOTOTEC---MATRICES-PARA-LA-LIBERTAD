@@ -37,6 +37,11 @@ cd ruta/del/proyecto
 streamlit run Proyectofinal.py
 ```
 
+## Notas importantes
+NO se debe ejecutar el archivo desde el botón "Run Python File" en VS Code.
+
+El archivo debe ejecutarse desde la terminal usando el comando `streamlit run`.
+
 # Vista Esperada:
 
 ![image](https://github.com/user-attachments/assets/ed21841e-859b-4408-9673-1b60536f5014)
@@ -54,6 +59,14 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/a7410b2a-72f7-41bc-b7e6-97a72aed709a)
 
 _________________________________________________________________________________________
+
+
+```markdown
+
+![image](https://github.com/user-attachments/assets/54ca056f-3e56-41d0-a134-bf8730c34ad5)
+
+
+```
 
 
 # Autores
