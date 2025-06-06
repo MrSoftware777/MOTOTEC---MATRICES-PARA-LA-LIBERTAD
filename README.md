@@ -1,7 +1,7 @@
 # MOTOTEC---MATRICES-PARA-LA-LIBERTAD
 Predicción de ventas y demanda de componentes usando mínimos cuadrados y álgebra matricial en Python.
 
-### Proyecto Final Álgebra Lineal – MOTOTEC
+## Proyecto Final Álgebra Lineal – MOTOTEC
 
 Este repositorio contiene el código del proyecto final para la materia **Álgebra Lineal**.  
 El objetivo fue predecir las ventas de motocicletas y la demanda de componentes usando **método de mínimos cuadrados** y **álgebra matricial**, todo implementado en Python con visualización en Streamlit.
