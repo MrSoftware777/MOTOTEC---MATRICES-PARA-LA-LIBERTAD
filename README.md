@@ -59,16 +59,6 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/a7410b2a-72f7-41bc-b7e6-97a72aed709a)
 
 _________________________________________________________________________________________
-
-
-```markdown
-
-![image](https://github.com/user-attachments/assets/54ca056f-3e56-41d0-a134-bf8730c34ad5)
-
-
-```
-
-
 # Autores
 
 Luis Fernando Zapata Vanegas
