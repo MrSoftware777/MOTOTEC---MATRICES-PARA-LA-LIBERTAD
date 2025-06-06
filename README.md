@@ -10,7 +10,7 @@ El objetivo fue predecir las ventas de motocicletas y la demanda de componentes 
 
 ## ¿Cuál es el contenido de este repositorio?
 
-- `app_proyecto_final.py`: script principal que ejecuta toda la aplicación web.
+- `Proyectofinal.py`: script principal que ejecuta toda la aplicación web.
 - `.gitignore` y `LICENSE`: configuración estándar para Python.
 - Este `README.md` con instrucciones detalladas.
 
