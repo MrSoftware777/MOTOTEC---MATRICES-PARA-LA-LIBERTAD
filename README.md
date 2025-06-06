@@ -24,3 +24,5 @@ El objetivo fue predecir las ventas de motocicletas y la demanda de componentes 
 
 ```bash
 pip install streamlit numpy matplotlib
+
+cd ruta/del/proyecto (Puede copiarla y pegarla con su explorador de archivos)
