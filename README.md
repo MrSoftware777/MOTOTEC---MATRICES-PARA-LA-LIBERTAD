@@ -41,6 +41,8 @@ streamlit run Proyectofinal.py
 
 ![image](https://github.com/user-attachments/assets/ed21841e-859b-4408-9673-1b60536f5014)
 
+_________________________________________________________________________________________
+
 ![image](https://github.com/user-attachments/assets/25623e48-5baa-422c-90e2-257183ba4b17)
 
 
