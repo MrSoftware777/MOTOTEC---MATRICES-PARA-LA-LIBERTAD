@@ -20,7 +20,8 @@ El objetivo fue predecir las ventas de motocicletas y la demanda de componentes 
 
 1. **Instala Python** (versión 3.10 o superior).
 2. Abre una terminal o consola.
-3. Instala las librerías necesarias:
+3. Copia y pega el código del archivo Proyectofinal.py
+4. Instala las librerías necesarias:
 
 ```bash
 pip install streamlit numpy matplotlib
