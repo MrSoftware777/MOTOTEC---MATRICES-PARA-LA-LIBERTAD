@@ -10,7 +10,7 @@ El objetivo fue predecir las ventas de motocicletas y la demanda de componentes 
 
 ## ¿Cuál es el contenido de este repositorio?
 
-- `Proyectofinal.py`: script principal que ejecuta toda la aplicación web.
+-  Proyectofinal.py: script principal que ejecuta toda la aplicación web.
 - `.gitignore` y `LICENSE`: configuración estándar para Python.
 - Este `README.md` con instrucciones detalladas.
 
@@ -20,7 +20,7 @@ El objetivo fue predecir las ventas de motocicletas y la demanda de componentes 
 
 1. **Instala Python** (versión 3.10 o superior).
 2. Abre una terminal o consola.
-3. Copia y pega el código del archivo Proyectofinal.py
+3. Entra al archivo `Proyectofinal.py` y descárgalo
 4. Instala las librerías necesarias:
 
 ```bash
