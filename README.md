@@ -21,7 +21,7 @@ El objetivo fue predecir las ventas de motocicletas y la demanda de componentes 
 1. Instala VScode si no lo tienes. → https://code.visualstudio.com/download
 2. **Instala Python si no lo tienes** (versión 3.10 o superior). → https://www.python.org/downloads/
 3. Entra al archivo `Proyectofinal.py` y descárgalo
-4. Abre una terminal o consola.
+4. Abre una terminal o consola en VScode.
 5. Instala las librerías necesarias:
 
 ```bash
