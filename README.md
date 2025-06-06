@@ -36,3 +36,19 @@ cd ruta/del/proyecto
 ```bash
 streamlit run Proyectofinal.py
 ```
+
+#Vista Esperada:
+
+![image](https://github.com/user-attachments/assets/ed21841e-859b-4408-9673-1b60536f5014)
+
+![image](https://github.com/user-attachments/assets/25623e48-5baa-422c-90e2-257183ba4b17)
+
+
+
+# Autores
+
+Luis Fernando Zapata Vanegas
+
+José David Zapata Franco
+
+**Tecnología en Desarrollo de Software – UTP**
