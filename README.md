@@ -1,4 +1,4 @@
-# MOTOTEC---MATRICES-PARA-LA-LIBERTAD
+# MOTOTEC - MATRICES-PARA LA LIBERTAD
 Predicción de ventas y demanda de componentes usando mínimos cuadrados y álgebra matricial en Python.
 
 ## Proyecto Final Álgebra Lineal – MOTOTEC
@@ -59,6 +59,8 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/a7410b2a-72f7-41bc-b7e6-97a72aed709a)
 
 _________________________________________________________________________________________
+
+
 # Autores
 
 Luis Fernando Zapata Vanegas
